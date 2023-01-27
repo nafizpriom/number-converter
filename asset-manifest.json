@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nafizpriom/number-converter/static/css/main.cc25a90b.css",
-    "main.js": "/nafizpriom/number-converter/static/js/main.45642be7.js",
-    "static/js/787.39ddd473.chunk.js": "/nafizpriom/number-converter/static/js/787.39ddd473.chunk.js",
-    "index.html": "/nafizpriom/number-converter/index.html",
-    "main.cc25a90b.css.map": "/nafizpriom/number-converter/static/css/main.cc25a90b.css.map",
-    "main.45642be7.js.map": "/nafizpriom/number-converter/static/js/main.45642be7.js.map",
-    "787.39ddd473.chunk.js.map": "/nafizpriom/number-converter/static/js/787.39ddd473.chunk.js.map"
+    "main.css": "/number-converter/static/css/main.cc25a90b.css",
+    "main.js": "/number-converter/static/js/main.a66dfb67.js",
+    "static/js/787.39ddd473.chunk.js": "/number-converter/static/js/787.39ddd473.chunk.js",
+    "index.html": "/number-converter/index.html",
+    "main.cc25a90b.css.map": "/number-converter/static/css/main.cc25a90b.css.map",
+    "main.a66dfb67.js.map": "/number-converter/static/js/main.a66dfb67.js.map",
+    "787.39ddd473.chunk.js.map": "/number-converter/static/js/787.39ddd473.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc25a90b.css",
-    "static/js/main.45642be7.js"
+    "static/js/main.a66dfb67.js"
   ]
 }
